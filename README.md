@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Astoremica&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Astoremica/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astoremica&layout=compact&theme=tokyonight)](https://github.com/Astoremica/)
