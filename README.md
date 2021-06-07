@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Astoremica/Astoremica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +18,8 @@ Here are some ideas to get you started:
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astoremica&layout=compact&theme=tokyonight)](https://github.com/Astoremica/)
+
+
+[Wantedly](https://www.wantedly.com/id/nayo)リンク
+
+[Qiita](https://qiita.com/Astoremica)リンク
