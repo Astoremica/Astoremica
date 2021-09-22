@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astoremica&layout=compact&theme=tokyonight)](https://github.com/Astoremica/)
 
 
-[Wantedly](https://www.wantedly.com/id/nayo)リンク
-
-[Qiita](https://qiita.com/Astoremica)リンク
-
 ### リリースアプリ
 
 <img src="logo.png" height=100><a href="https://apps.apple.com/us/app/%E3%83%9E%E3%83%B3%E3%82%AC%E8%B3%BC%E5%85%A5%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF/id1557278076?itsct=apps_box_badge&amp;itscg=30200"><img src="comicAppStore.png" height=100></a>
